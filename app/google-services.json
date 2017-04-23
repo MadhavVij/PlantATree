@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "179652990717",
+    "firebase_url": "https://plantatree-dd065.firebaseio.com",
+    "project_id": "plantatree-dd065",
+    "storage_bucket": "plantatree-dd065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179652990717:android:546d3341ae2f9377",
+        "android_client_info": {
+          "package_name": "com.example.regx.plantatree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179652990717-h2ma784s3s3q3fv7o16obosm0291o8m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTpdzoUxj56SdzS1V1y68bEoRfxVKfKH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
